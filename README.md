@@ -58,7 +58,7 @@ Churn prediction is critical for businesses to proactively retain users. This pr
 ## 🚀 Running the Project
 
 ### 1️⃣ Clone the repo
-git clone https://github.com/yourusername/Amazon_users_Churn-Prediction.git
+git clone https://github.com/Chinmay1598-ml/Amazon_Users_Churn_Prediction.git
 cd churn-prediction
 
 
